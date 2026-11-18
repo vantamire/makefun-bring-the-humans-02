@@ -33,6 +33,8 @@ An honest note before you start: only the top places are paid, and most entries 
 3. Link your GitHub account on your make.fun profile. Entries must live in repositories owned by that account.
 4. Put your Solana wallet on the account so it can sign entries: `node cli/makefun.mjs wallet add --keypair <file>`. This is the wallet a prize is paid to, so use one you control.
 
+**Open the referral link first.** If someone shared a referral link with you, open it *before* you create the account. For this guide, that link is <https://make.fun/r/8zj98wbt> (code `8zj98wbt`). The referral is only counted if the link is opened before signup — creating the account first and opening the link afterwards does not count as a referral.
+
 ## Step 2 — Pick a bounty
 
 Browse the open bounties on <https://make.fun>. Each one shows the prize, how many places are paid, the deadline, and whether there is an entry fee (most are free; a few charge a small fee — check before you start, and never pay a fee from a wallet that has no SOL for it).
@@ -94,6 +96,19 @@ If this guide helped you, please use my referral link when you sign up:
 - Code: `8zj98wbt`
 
 Referring works both ways: when someone signs up through your link, you earn a share of the prizes they go on to win (currently 10% for 90 days — check the referral terms on make.fun, as they can change). Your own referral code is on your make.fun profile once you are signed in. Bringing real people to the platform is also what the “Bring the humans” bounties reward.
+
+Open the link *before* creating the account: the referral only counts if the link is opened first. Signing up directly at make.fun and opening the referral link afterwards does not count as a referral, and it cannot be attached later.
+
+## What happens after you sign up
+
+Once your account is created and your GitHub account is linked, you can enter bounties right away — pick one, download its kit, and build. Referrals are counted when the person who used your link finishes signing up; only real, verified human signups count, and the platform checks them. For this bounty ("Bring the humans again"), the competition ends **Saturday 21 November 2026, 17:30 WIB**, and the winner is whoever brought the most verified human signups through their referral link by then. Your own referral link and code are on your make.fun profile once you are signed in.
+
+## Troubleshooting
+
+- **The signup page won't load.** Check your connection, wait a minute and reload. If it still won't load, try another browser or network before assuming the site is down.
+- **The referral link seems not to track.** Make sure you opened the link *before* creating the account — opening it afterwards does not count. Also check you used the exact link (<https://make.fun/r/8zj98wbt>, code `8zj98wbt`); a mistyped code goes nowhere. If you already created the account without the link, the referral cannot be attached later.
+- **The account confirmation email doesn't arrive.** Check your spam and promotions folders, and confirm you typed the right address. Wait a few minutes — mail can be slow — then use the resend option if the page offers one.
+- **Your profile doesn't show the referral.** Referrals are verified, not instant, so it can take time for one to appear. If it still doesn't show after a day, re-check that the link was opened before signup and that the code matches the one on your profile.
 
 ## Common mistakes
 
